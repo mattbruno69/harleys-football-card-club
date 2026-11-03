@@ -1,1 +1,1 @@
-{"name":"Harley's Football Card Club","short_name":"Harley's FC","start_url":"./","scope":"./","display":"standalone","background_color":"#100d2b","theme_color":"#100d2b","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"Harley's Football Card Club","short_name":"Harley's FC","start_url":"./?v=4","scope":"./","display":"standalone","background_color":"#0c0929","theme_color":"#100d35","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
